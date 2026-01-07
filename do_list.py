@@ -32,3 +32,4 @@ while True:
                    i=i+1
       elif choice==4:
            print("EXIST")
+           break
